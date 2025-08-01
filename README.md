@@ -34,8 +34,3 @@ Implemented a class hierarchy in Python for a role-playing game, featuring entit
 
 ✨**Fun Fact:**
 Through my involvement with the Society of Hispanic Professional Engineers, I’ve helped fellow students develop their professional skills while also creating an inclusive environment where everyone feels a sense of belonging.
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
