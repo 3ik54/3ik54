@@ -17,13 +17,11 @@ Web Dev: HTML, CSS
 Tools: Jupyter Notebooks, GitHub
 
  🚀 **Projects**:
-**1. Sort Numbers**
-(inset link)
+**1. Sort Numbers**(insert link)
 Sorted up to 1 million integers from an input file, by implementing a bubble sort algorithm with heap-allocated arrays and file I/O in C++
   **-Tech Stack:** C++
   **-Learnings:** understanding of sorting algorithms and dynamic memory management
-**2. Interactive Turn-Based**
-(insert link)
+**2. Interactive Turn-Based**(insert link)
 Implemented a class hierarchy in Python for a role-playing game, featuring entities like Hero and various dragons
   **-Tech Stack:** Python
   **-Learning:** Object Orientated Programming and class design
