@@ -12,6 +12,7 @@ I’m passionate about continuous learning and proactive skill-building, and I b
   **Tools:** Python, HTML, CSS
   
   **Result:** TBD
+  
 Curious? See the full project here (insert link)
 
 🛠 **Tech Stack:**
@@ -20,9 +21,10 @@ Data Science: Pandas, NumPy
 Web Dev: HTML, CSS
 Tools: Jupyter Notebooks, GitHub
 
+
  🚀 **Projects**:
  
-**1. Sort Numbers**(insert link)
+**1. Sort Numbers** (https://github.com/3ik54/Sort-Numbers.git)
 
 Sorted up to 1 million integers from an input file, by implementing a bubble sort algorithm with heap-allocated arrays and file I/O in C++
 
@@ -30,7 +32,7 @@ Sorted up to 1 million integers from an input file, by implementing a bubble sor
   
   **-Learnings:** Understanding of sorting algorithms and dynamic memory management 
   
-**2. Predictive Maintiance Model for Accenture**(link not avaiable till December)
+**2. Predictive Maintiance Model for Accenture** (link not avaiable till December)
 
 In a team of 6, I've took part in designing a supervised machine learning model that predicting pump downtimes. 
 
