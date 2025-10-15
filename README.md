@@ -32,7 +32,7 @@ Sorted up to 1 million integers from an input file, by implementing a bubble sor
   
   **-Learnings:** Understanding of sorting algorithms and dynamic memory management 
   
-**2. Predictive Maintiance Model for Accenture** (link not avaiable till December)
+**2. Predictive Maintiance Model for Accenture** (link will be available in December due to program access restrictions)
 
 In a team of 6, I've took part in designing a supervised machine learning model that predicting pump downtimes. 
 
