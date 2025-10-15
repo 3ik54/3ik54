@@ -16,9 +16,13 @@ I’m passionate about continuous learning and proactive skill-building, and I b
 Curious? See the full project here (insert link)
 
 🛠 **Tech Stack:**
+
 Languages: Python, C++
+
 Data Science: Pandas, NumPy
+
 Web Dev: HTML, CSS
+
 Tools: Jupyter Notebooks, GitHub
 
 
