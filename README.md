@@ -13,7 +13,7 @@ I’m passionate about continuous learning and proactive skill-building, and I b
   
   **Result:** TBD
   
-Curious? See the full project here (insert link)
+Curious? See the full project here (https://github.com/3ik54/Mentorship-Pairing.git)
 
 🛠 **Tech Stack:**
 
